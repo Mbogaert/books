@@ -76,30 +76,6 @@ A user can view their saved books on a separate page, as shown in the following 
 ![The Viewing Lernantino's Books page shows the books that the user Lernaninto has saved.](./Assets/21-mern-homework-demo-03.gif)
 
 
-## Getting Started
-
-In order for this application to use a GraphQL API, you’ll need to refactor the API to use GraphQL on the back end and add some functionality to the front end. The following sections contain details about the files you’ll need to modify on the back end and the front end.
-
-> **Important:** Make sure to study the application before building upon it. Better yet, start by making a copy of it. It's already a working application&mdash;you're converting it from RESTful API practices to a GraphQL API.
-
-### Back-End Specifications
-
-You’ll need to complete the following tasks in each of these back-end files:
-
-* `auth.js`: Update the auth middleware function to work with the GraphQL API.
-
-	> **Hint:** Refer to the module project as a refresher on how to do this.
-	I think I did this?
-
-
-### Front-End Specifications
-
-Additionally, you’ll need to complete the following tasks in each of these front-end files:
-
-* `SignupForm.js`: Replace the `addUser()` functionality imported from the `API` file with the `ADD_USER` mutation functionality.
-
-* `LoginForm.js`: Replace the `loginUser()` functionality imported from the `API` file with the `LOGIN_USER` mutation functionality.
-
 ## Review
 
 You are required to submit BOTH of the following for review:
